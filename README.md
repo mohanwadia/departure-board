@@ -7,7 +7,7 @@ Setup:
 <img width="286" height="166" alt="image" src="https://github.com/user-attachments/assets/18a072ef-c3fe-4ff9-bedd-f590ec3d67da" />
 
 3. Libraries: Adafruit SSD1306, Adafruit GFX, ArduinoJson v7, ESP32 Arduino core 3.x
-4. API: Register for [https://www.vic.gov.au/public-transport-timetable-api](PTV API)
+4. API: Register for [PTV API](https://www.vic.gov.au/public-transport-timetable-api)
 5. Code: Input constants for WIFI_SSID, WIFI_PASSWORD, DEV_ID, API_KEY
 6. Flash: Using Arduino IDE, flash the code to the
 7. Settings: Use https://ptv.local to input metadata
