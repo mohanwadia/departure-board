@@ -11,4 +11,5 @@ Setup:
 7. Settings: Use https://ptv.local to input metadata
 
 Wiring Guide:
+
 <img width="286" height="166" alt="image" src="https://github.com/user-attachments/assets/18a072ef-c3fe-4ff9-bedd-f590ec3d67da" />
